@@ -6,7 +6,7 @@
 [2. Какой кейс решаем?](https://github.com/dudyaosuplayer/SF_prac_8.1/blob/main/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/dudyaosuplayer/SF_prac_8.1/blob/main/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/dudyaosuplayer/SF_prac_8.1/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/dudyaosuplayer/SF_prac_8.1/blob/main/README.md#Результат)  
+[5. Результат](https://github.com/dudyaosuplayer/SF_prac_8.1/blob/main/README.md#Результаты)  
 [6. Выводы](https://github.com/dudyaosuplayer/SF_prac_8.1/blob/main/README.md#Выводы)
 
 ### Описание проекта
