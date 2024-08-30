@@ -15,6 +15,7 @@ def custon_predict(number: int = 1) -> int:
     Returns:
         int: кол-во попыток затраченное на угадывание числа
     """
+    np.random.seed(2)
     count = 0
 
     predict_number = 50
